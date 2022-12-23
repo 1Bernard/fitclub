@@ -1,5 +1,7 @@
 # Fitclub
 
+This modern website design for a fitness club was build incorporating the best practices in frontend development using React, CSS and Framer Motion.
+
 ## Click on image to visit website
 
 [![Capture](https://user-images.githubusercontent.com/90481075/209410906-1d535dee-ffde-440d-a733-f729e764e1a5.JPG)](https://fitclubgh.pages.dev/)
