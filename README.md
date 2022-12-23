@@ -1,6 +1,6 @@
 #Fitclub
 
-![Capture](https://user-images.githubusercontent.com/90481075/209410906-1d535dee-ffde-440d-a733-f729e764e1a5.JPG)
+[![Capture](https://user-images.githubusercontent.com/90481075/209410906-1d535dee-ffde-440d-a733-f729e764e1a5.JPG)](https://fitclubgh.pages.dev/)
 
 # Getting Started with Create React App
 
